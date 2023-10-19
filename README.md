@@ -39,7 +39,7 @@ Download Windows 2022 Server: <br/>
 <br />
 <br />
 Create Virtual Machines:  <br/>
-<img src="https://imgur.com/a/rLcJnjU" height="80%" width="80%" alt="Create Virtual Machines"/>
+<img src="https://imgur.com/PKMMNHx" height="80%" width="80%" alt="Create Virtual Machines"/>
 <br />
 <br />
 <p2 align=center> At this point, I followed the steps for creating the server's fundamental aspects, including allocating memory[50GB] and RAM [4GB]. I bumped up the cores [4] for a smoother experience and enabled bidirectional for both "Drag'n'Drop" and "Shared Clipboard."</p2>
