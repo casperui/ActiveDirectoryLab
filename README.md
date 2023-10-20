@@ -51,6 +51,8 @@ Create Virtual Machines:  <br/>
 Install Guest Additions:  <br/>
 <img src="https://imgur.com/0wXQMkT.png" height="80%" width="80%" alt="Install Guest Additions"/>
 <br />
+<p3 align=center><b>**NOTE**</b>: Install "<i>VBoxWindowsAdditions-amd64</i></p3> 
+<br />
 <br />
 Set-Up IP Addressing:  <br/>
 <img src="https://imgur.com/tGiJX8E.png" width="80%" alt="Set-Up IP Addressing"/>
