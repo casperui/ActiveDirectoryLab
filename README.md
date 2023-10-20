@@ -57,11 +57,11 @@ Set-Up IP Addressing:  <br/>
 <br />
 <br />
 Install Active Directory Domain Services:  <br/>
-<img src="" height="80%" width="80%" alt="Install ADDS"/>
+<img src="https://imgur.com/RXucgF9.png" height="80%" width="80%" alt="Install ADDS"/>
 <br />
 <br />
 Post Deployment Configurations:  <br/>
-<img src="" height="80%" width="80%" alt="Post Deployment Config"/>
+<img src="https://imgur.com/N4Ovs3s.png" height="80%" width="80%" alt="Post Deployment Config"/>
 <br />
 <br />
 Dedicated Domain Admin Account:  <br/>
