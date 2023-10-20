@@ -49,7 +49,7 @@ Create Virtual Machines:  <br/>
 <br />
 <br />
 Install Guest Additions:  <br/>
-<img src="" height="80%" width="80%" alt="Install Guest Additions"/>
+<img src="https://imgur.com/0wXQMkT.png" height="80%" width="80%" alt="Install Guest Additions"/>
 <br />
 <br />
 Set-Up IP Addressing:  <br/>
