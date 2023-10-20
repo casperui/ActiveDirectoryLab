@@ -53,11 +53,7 @@ Install Guest Additions:  <br/>
 <br />
 <br />
 Set-Up IP Addressing:  <br/>
-<img src="" width="80%" alt="Set-Up IP Addressing"/>
-<br />
-<br />
-Rename PC:  <br/>
-<img src="" height="80%" width="80%" alt="Rename PC"/>
+<img src="https://imgur.com/tGiJX8E.png" width="80%" alt="Set-Up IP Addressing"/>
 <br />
 <br />
 Install Active Directory Domain Services:  <br/>
